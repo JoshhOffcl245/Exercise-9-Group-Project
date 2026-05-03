@@ -9,8 +9,10 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Text>Group Members:</Text>
       <Text>Joshua Ralph Tamparong</Text>
-      <Text>Dhruv Jae Guboc</Text>
+      <Text>Dhruv Jae E. Guboc</Text>
+      <Text>NewMembers</Text>
       <Text>BSIT-2A</Text>
       <Text>Exercise 9: Group Project</Text>
     </View>
