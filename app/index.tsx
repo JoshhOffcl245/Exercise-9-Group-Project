@@ -1,6 +1,5 @@
 import { Text, View } from "react-native";
 
-// Paulo's modifications to the Exercise 9 Group Project
 export default function Index() {
   return (
     <View
