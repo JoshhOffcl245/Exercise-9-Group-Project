@@ -12,7 +12,7 @@ export default function Index() {
       <Text>Group Members:</Text>
       <Text>Joshua Ralph Tamparong</Text>
       <Text>Dhruv Jae E. Guboc</Text>
-      <Text>NewMembers</Text>
+      <Text>Paulo Gabriel Limit</Text>
       <Text>BSIT-2A</Text>
       <Text>Exercise 9: Group Project</Text>
     </View>
