@@ -11,6 +11,7 @@ export default function Index() {
     >
       <Text>Joshua Ralph Tamparong</Text>
       <Text>Dhruv Jae Guboc</Text>
+      <Text>Paulo Gabriel Limit</Text>
       <Text>BSIT-2A</Text>
       <Text>Exercise 9: Group Project</Text>
     </View>
