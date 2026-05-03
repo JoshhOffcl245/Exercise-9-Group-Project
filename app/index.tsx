@@ -9,12 +9,9 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Group Members:</Text>
       <Text>1. Joshua Ralph Tamparong</Text>
-      <Text>2. Dhruv Jae E. Guboc</Text>
+      <Text>2. Dhruv Jae Guboc</Text>
       <Text>3. Paulo Gabriel Limit</Text>
-      <Text>BSIT-2A</Text>
-      <Text>Exercise 9: Group Project</Text>
     </View>
   );
 }
